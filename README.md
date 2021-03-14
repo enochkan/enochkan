@@ -1,3 +1,7 @@
+ I want to make a difference by helping doctors diagnose diseases earlier with deep learning.
+
+"Eradicate Cancer One Pixel at a Time" 
+
 ![enochkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=enochkan&count_private=true)
 
 <!--
