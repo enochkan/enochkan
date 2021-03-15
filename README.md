@@ -2,10 +2,10 @@
 
 _Eradicate Cancer One Pixel at a Time_
 
-![enochkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=enochkan&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark)
+![enochkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=enochkan&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)
 
 <p align="left"> 
-  Visitor count: <img align="center" src="https://profile-counter.glitch.me/enochkan/count.svg" />
+  Visitor count: <img style="-webkit-filter: invert(100%); background-color:black; border-color:red" align="center" src="https://profile-counter.glitch.me/enochkan/count.svg" />
 </p>
 
 <!--
