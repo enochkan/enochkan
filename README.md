@@ -4,6 +4,11 @@ _Eradicate Cancer One Pixel at a Time_
 
 ![enochkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=enochkan&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/enochkan/count.svg" />
+</p>
+
 <!--
 **enochkan/enochkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
