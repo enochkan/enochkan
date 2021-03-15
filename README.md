@@ -6,3 +6,4 @@ _Eradicate Cancer One Pixel at a Time_
 
 ![](https://komarev.com/ghpvc/?username=enochkan&label=Visits)
 [![Years Badge](https://badges.pufler.dev/years/enochkan?color=blue)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/enochkan?color=blue)](https://badges.pufler.dev)
