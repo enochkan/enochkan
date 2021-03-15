@@ -3,7 +3,7 @@
 _Eradicate Cancer One Pixel at a Time_
 
 ![enochkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=enochkan&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enochkan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enochkan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **enochkan/enochkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
