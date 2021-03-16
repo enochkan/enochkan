@@ -6,6 +6,7 @@ _Eradicate Cancer One Pixel at a Time_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enochkan&layout=compact&custom_title=Languages%20Used:&title_color=56A1F7&bg_color=00000000&text_color=8B949E&langs_count=10&hide=HTML,Makefile,CSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=enochkan&label=Visits)
+![](https://komarev.com/ghpvc/?username=enochkan&label=Profile%20Visits)
 [![Years Badge](https://badges.pufler.dev/years/enochkan?color=blue)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/enochkan?color=blue)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=borda&color=green)
