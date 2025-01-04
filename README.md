@@ -1,1 +1,1 @@
-[![Enoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=enochkan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Enoch's GitHub stats](https://github-readme-stats.vercel.app/api?username=enochkan&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
